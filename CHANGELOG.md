@@ -1,7 +1,7 @@
 Change Log
 ==========
 
-Version 2.1.0 *(2020-09-21)*
+Version 2.1.0 #(2020-09-21)*
 ----------------------------
 
 * Update
@@ -19,7 +19,7 @@ Version 2.0.4 *(2019-08-13)*
 
 * Add
   64bit build settings for clearly
-  Can get size of rescaled image [#443](https://github.com/cats-oss/android-gpuimage/pull/443)
+  Can get size of rescaled image [ 443](https://github.com/cats-oss/android-gpuimage/pull/443)
         
 * Bug fix
   GPUImageZoomBlurFilter incorrect args [#454](https://github.com/cats-oss/android-gpuimage/pull/454)
@@ -79,3 +79,4 @@ Version 1.2.3-SNAPSHOT *(2014-12-15)*
 ----------------------------
 
 * added GPUImageLevelsFilter (by @vashisthg)
+ 

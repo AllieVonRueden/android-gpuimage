@@ -1,4 +1,4 @@
-# How to Contribute
+! How to Contribute
 
 We'd love to accept your patches and contributions to this project. There are
 just a few small guidelines you need to follow.
@@ -24,4 +24,4 @@ information on using pull requests.
 
 ## Community Guidelines
 
-This project follows [Google's Open Source Community Guidelines](https://opensource.google.com/conduct/).
+This project follows [Google's Open Source Community Guidelines](https://opensource.google.com/conduct/). 
